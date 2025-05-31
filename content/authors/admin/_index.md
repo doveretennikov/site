@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: НКАбд-01-24
+role: Студент
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
