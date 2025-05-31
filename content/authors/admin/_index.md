@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Веретенников Дмитрий Олегович
 
 # Name pronunciation (optional)
 name_pronunciation: D
