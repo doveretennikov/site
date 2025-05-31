@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Веретенников Дмитрий Олегович
+title: Веретенников Дмитрий
 
 # Full name (for SEO)
 first_name: Дмитрий
