@@ -20,10 +20,9 @@ organizations:
   - name: RUDN
     url: https://www.rudn.ru/
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Интересы:
+  - Программирование на C++
+  - Программирование на C#
 
 education:
   - area: PhD Artificial Intelligence
