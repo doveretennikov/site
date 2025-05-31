@@ -20,7 +20,7 @@ organizations:
   - name: RUDN
     url: https://www.rudn.ru/
 
-интересы:
+interests:
   - Программирование на C++
   - Программирование на C#
 
