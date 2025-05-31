@@ -3,8 +3,8 @@
 title: Веретенников Дмитрий Олегович
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Дмитрий
+last_name: Веретенников
 
 # Is this the primary user of the site?
 superuser: true
