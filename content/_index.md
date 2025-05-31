@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Site
+title: ""
 date: 2022-10-24
 type: landing
 
@@ -51,7 +51,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Недавние публикации
+      title: Недавнии публикации
       text: ""
       filters:
         folders:
