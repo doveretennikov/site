@@ -51,7 +51,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Недавние публикации
       text: ""
       filters:
         folders:
@@ -60,19 +60,9 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
     id: news
     content:
-      title: Recent News
+      title: Последнии новости
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
