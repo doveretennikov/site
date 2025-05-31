@@ -25,8 +25,8 @@ interests:
   - Программирование на C#
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Компьютерные и информационные науки
+    institution: RUDN University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
